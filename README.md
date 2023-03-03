@@ -13,6 +13,8 @@ College Algebra
 
 https://www.khanacademy.org/math/college-algebra
 
+
+https://www.khanacademy.org/math/algebra-home/alg-rational-expr-eq-func
 pre-requisite:
 
 
