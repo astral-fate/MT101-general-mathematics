@@ -25,7 +25,7 @@ SECTION 1.5 Applications of Quadratic
 Equations
 
 
-SECTION 1.6 More Equations and Applications
+SECTION 1.6 More Equations and Applications(polynomial equations)
 
 
 SECTION 1.7 Linear Inequalities and Compound 
