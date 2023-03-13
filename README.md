@@ -14,24 +14,24 @@
 
 
 
-#### SECTION 1.2 Applications and Modeling with Linear Equations
+### SECTION 1.2 Applications and Modeling with Linear Equations
 
 
-#### SECTION 1.3 Complex Numbers
+### SECTION 1.3 Complex Numbers
 
 
 
 
-#### SECTION 1.4 Quadratic Equations
+### SECTION 1.4 Quadratic Equations
 
 
-#### SECTION 1.5 Applications of Quadratic Equations
+### SECTION 1.5 Applications of Quadratic Equations
 
 
-#### SECTION 1.6 More Equations and Applications(polynomial equations)
+### SECTION 1.6 More Equations and Applications(polynomial equations)
 
 
-#### SECTION 1.7 Linear Inequalities and Compound Inequalities
+### SECTION 1.7 Linear Inequalities and Compound Inequalities
 
 ## Chapter 2 Functions and Graphs
 
@@ -39,7 +39,7 @@
 
 
 
-#### SECTION 2.1 The Rectangular Coordinate System and Graphing Utilities
+### SECTION 2.1 The Rectangular Coordinate System and Graphing Utilities
 
 • The coordinate plane <br>
 (https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:algebra-overview-history/v/descartes-and-cartesian-coordinates)
@@ -57,13 +57,13 @@
 
 
 
-#### SECTION 2.2 Circles 
+### SECTION 2.2 Circles 
 
 • The equation of a circle <br>
 (https://www.khanacademy.org/math/geometry/hs-geo-analytic-geometry/hs-geo-equations-of-circles/v/equation-of-a-circle)
 
 
-#### SECTION 2.3 Functions and Relations
+### SECTION 2.3 Functions and Relations
 
 
 
@@ -93,7 +93,7 @@ https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-fu
 • Domain and range of a function <br>
 (https://www.khanacademy.org/math/algebra/algebra-functions/domain-and-range/v/domain-and-range-of-a-function)
 
-#### SECTION 2.4 Linear Equations in Two Variables and Linear Function
+### SECTION 2.4 Linear Equations in Two Variables and Linear Function
 
 
 • Slope-intercept form <br>
@@ -109,7 +109,7 @@ https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-fu
 (https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:forms-of-linear-equations#x2f8bb11595b61c86:standard-form)
 
 
-#### SECTION 2.5 Applications of Linear Equations and Modeling
+### SECTION 2.5 Applications of Linear Equations and Modeling
 
 
 
@@ -125,7 +125,7 @@ https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-fu
 
 ## Chapter 3 Polynomial and Rational 
 
-#### SECTION 3.1 Quadratic Functions and Applications
+### SECTION 3.1 Quadratic Functions and Applications
 
 
 * Introduction to Quadratic Functions: <br>
@@ -144,7 +144,7 @@ https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-fu
 
 
 
-#### SECTION 3.2 Introduction to Polynomial Functions
+### SECTION 3.2 Introduction to Polynomial Functions
 
 
 Introduction to Polynomial Functions: <br>
@@ -153,10 +153,11 @@ Introduction to Polynomial Functions: <br>
 https://www.khanacademy.org/math/algebra2/polynomial-functions/introduction-to-polynomial-functions-alg2/v/introduction-to-polynomial-functions
 
 
-Graphing Polynomial Functions: https://www.khanacademy.org/math/algebra2/polynomial-functions/graphing-polynomial-functions-alg2/v/graphing-polynomial-functions
+* Graphing Polynomial Functions: <br>
+https://www.khanacademy.org/math/algebra2/polynomial-functions/graphing-polynomial-functions-alg2/v/graphing-polynomial-functions
 
 
-#### SECTION 3.3 Division of Polynomials and the Remainder and Factor Theorems
+### SECTION 3.3 Division of Polynomials and the Remainder and Factor Theorems
 
 
 * Factoring quadratics intro <br>
