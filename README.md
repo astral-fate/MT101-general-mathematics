@@ -25,19 +25,34 @@
 #### SECTION 1.4 Quadratic Equations
 
 
-#### SECTION 1.5 Applications of Quadratic 
-Equations
+#### SECTION 1.5 Applications of Quadratic Equations
 
 
 #### SECTION 1.6 More Equations and Applications(polynomial equations)
 
 
-#### SECTION 1.7 Linear Inequalities and Compound 
-Inequalities
+#### SECTION 1.7 Linear Inequalities and Compound Inequalities
 
 ## Chapter 2 Functions and Graphs
 
-## Chapter 3 Polynomial and Rational Functions
+
+#### SECTION 2.1 The Rectangular Coordinate System and Graphing Utilities
+#### SECTION 2.2 Circles
+#### SECTION 2.3 Functions and Relations
+#### SECTION 2.4 Linear Equations in Two Variables and Linear Function
+
+#### SECTION 2.5 Applications of Linear Equations and Modeling
+
+
+
+
+## Chapter 3 Polynomial and Rational 
+
+#### SECTION 3.1 Quadratic Functions and Applications
+
+#### SECTION 3.2 Introduction to Polynomial Functions
+
+#### SECTION 3.3 Division of Polynomials and the Remainder and Factor Theorems
 
 
 
