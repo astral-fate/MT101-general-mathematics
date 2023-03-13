@@ -12,6 +12,31 @@
 #### SECTION 1.1 Linear Equations and Rational Equations
 
 
+• Introduction to functions <br>
+(https://www.khanacademy.org/math/algebra/algebra-functions/introduction-to-functions/v/what-is-a-function)
+
+
+• What is a relation? <br>
+https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/cc-8th-function-intro/v/testing-if-a-relationship-is-a-function
+
+
+• Understanding the vertical line test <br>
+(https://www.khanacademy.org/math/algebra/algebra-functions/introduction-to-functions/v/vertical-line-test-review)
+
+
+• Function notation <br>
+(https://www.khanacademy.org/math/algebra/algebra-functions/function-notation/v/function-notation)
+
+
+• Composite functions <br>
+(https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:composite/x9e81a4f98389efdf:composing/v/function-composition)
+
+
+
+• Plotting points <br>
+(https://www.khanacademy.org/math/basic-geo/basic-geo-coordinates/plotting-points/e/plotting_points)
+
+
 
 
 #### SECTION 1.2 Applications and Modeling with Linear Equations
@@ -37,75 +62,29 @@
 
 
 #### SECTION 2.1 The Rectangular Coordinate System and Graphing Utilities
-#### SECTION 2.2 Circles
-#### SECTION 2.3 Functions and Relations
-#### SECTION 2.4 Linear Equations in Two Variables and Linear Function
-
-#### SECTION 2.5 Applications of Linear Equations and Modeling
-
-
-• Introduction to functions <br>
-(https://www.khanacademy.org/math/algebra/algebra-functions/introduction-to-functions/v/what-is-a-function)
-
-
-• What is a relation? <br>
-https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/cc-8th-function-intro/v/testing-if-a-relationship-is-a-function
-
-
-• Understanding the vertical line test <br>
-(https://www.khanacademy.org/math/algebra/algebra-functions/introduction-to-functions/v/vertical-line-test-review)
-
-
-• Function notation <br>
-(https://www.khanacademy.org/math/algebra/algebra-functions/function-notation/v/function-notation)
-
-
-• Composite functions <br>
-(https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:composite/x9e81a4f98389efdf:composing/v/function-composition)
-
-
-SECTION 2.1 The Rectangular Coordinate System and Graphing Utilities:
-
-
 • The coordinate plane <br>
 (https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:algebra-overview-history/v/descartes-and-cartesian-coordinates)
 
 
-• Plotting points <br>
-(https://www.khanacademy.org/math/basic-geo/basic-geo-coordinates/plotting-points/e/plotting_points)
-
-
-• Graphing lines <br> 
-(https://www.khanacademy.org/math/algebra/algebra-functions/graphing-slope-intercept-equations/v/graphing-a-line-in-slope-intercept-form)
-
-
-• Graphing inequalities <br>
-(https://www.khanacademy.org/math/algebra-home/alg-basic-eq-ineq/alg-basic-graphing-inequalities/v/graphing-linear-inequalities)
-
-
-SECTION 2.2 Circles:
-
+#### SECTION 2.2 Circles 
 
 • The equation of a circle <br>
 (https://www.khanacademy.org/math/geometry/hs-geo-analytic-geometry/hs-geo-equations-of-circles/v/equation-of-a-circle)
 
 
-SECTION 2.3 Functions and Relations:
+#### SECTION 2.3 Functions and Relations
+
 
 
 • Introduction to functions and relations <br>
 (https://www.khanacademy.org/math/algebra/algebra-functions/introduction-to-functions/v/what-is-a-function)
 
 
-• Function notation <br>
-(https://www.khanacademy.org/math/algebra/algebra-functions/function-notation/v/function-notation)
-
 
 • Domain and range of a function <br>
 (https://www.khanacademy.org/math/algebra/algebra-functions/domain-and-range/v/domain-and-range-of-a-function)
 
-
-SECTION 2.4 Linear Equations in Two Variables and Linear Function:
+#### SECTION 2.4 Linear Equations in Two Variables and Linear Function
 
 
 • Slope-intercept form <br>
@@ -119,6 +98,23 @@ SECTION 2.4 Linear Equations in Two Variables and Linear Function:
 
 • Standard form <br>
 (https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:forms-of-linear-equations#x2f8bb11595b61c86:standard-form)
+
+
+#### SECTION 2.5 Applications of Linear Equations and Modeling
+
+
+• Graphing lines <br> 
+(https://www.khanacademy.org/math/algebra/algebra-functions/graphing-slope-intercept-equations/v/graphing-a-line-in-slope-intercept-form)
+
+
+• Graphing inequalities <br>
+(https://www.khanacademy.org/math/algebra-home/alg-basic-eq-ineq/alg-basic-graphing-inequalities/v/graphing-linear-inequalities)
+
+
+
+
+
+
 
 
 SECTION 2.5 Applications of Linear Equations and Modeling:
