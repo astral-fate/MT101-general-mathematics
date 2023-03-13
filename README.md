@@ -51,7 +51,7 @@
 
 
 • Graphing inequalities <br>
-(https://www.khanacademy.org/math/algebra-home/alg-basic-eq-ineq/alg-basic-graphing-inequalities/v/graphing-linear-inequalities)
+(https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:inequalities-systems-graphs#x2f8bb11595b61c86:graphing-two-variable-inequalities)
 
 
 
