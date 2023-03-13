@@ -3,9 +3,9 @@
 
 # Table of content 
 
-1. [Chapter 1 Linear Equations and Rational Equations](#Chapter-1-Linear-Equations-and-Rational-Equations
+1. [Chapter 1 Linear Equations and Rational Equations](#Chapter-1-Linear-Equations-and-Rational-Equations)
 2. [Chapter 2 Functions and Graphs](#Chapter-2-Functions-and-Graphs)
-3. [Chapter 3 Polynomial and Rational Functions][#Chapter-3-Polynomial-and-Rational-Functions)
+3. [Chapter 3 Polynomial and Rational Functions](#Chapter-3-Polynomial-and-Rational-Functions)
 
 ## Chapter 1 Linear Equations and Rational Equations
 
