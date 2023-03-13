@@ -54,8 +54,6 @@
 (https://www.khanacademy.org/math/algebra-home/alg-basic-eq-ineq/alg-basic-graphing-inequalities/v/graphing-linear-inequalities)
 
 
-• Plotting points <br>
-(https://www.khanacademy.org/math/basic-geo/basic-geo-coordinates/plotting-points/e/plotting_points)
 
 
 
@@ -86,8 +84,6 @@ https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-fu
 (https://www.khanacademy.org/math/algebra/algebra-functions/introduction-to-functions/v/vertical-line-test-review)
 
 
-• Function notation <br>
-(https://www.khanacademy.org/math/algebra/algebra-functions/function-notation/v/function-notation)
 
 
 • Composite functions <br>
@@ -116,12 +112,6 @@ https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-fu
 #### SECTION 2.5 Applications of Linear Equations and Modeling
 
 
-
-
-
-
-
-SECTION 2.5 Applications of Linear Equations and Modeling:
 
 
 • Linear equations in real world problems <br>
