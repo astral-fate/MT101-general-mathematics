@@ -127,9 +127,64 @@ https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-fu
 
 #### SECTION 3.1 Quadratic Functions and Applications
 
+
+* Introduction to Quadratic Functions: <br>
+
+
+ https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:intro-parabolas/e/parabolas-intro
+
+
+* Quadratic Functions and Factoring: <br>
+
+
+ https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring#x2f8bb11595b61c86:factor-quadratics-intro
+
+
+
+
+
+
 #### SECTION 3.2 Introduction to Polynomial Functions
 
+
+Introduction to Polynomial Functions: <br>
+
+
+https://www.khanacademy.org/math/algebra2/polynomial-functions/introduction-to-polynomial-functions-alg2/v/introduction-to-polynomial-functions
+
+
+Graphing Polynomial Functions: https://www.khanacademy.org/math/algebra2/polynomial-functions/graphing-polynomial-functions-alg2/v/graphing-polynomial-functions
+
+
 #### SECTION 3.3 Division of Polynomials and the Remainder and Factor Theorems
+
+
+* Factoring quadratics intro <br>
+
+
+https://www.khanacademy.org/math/algebra-home/alg-polynomials/alg-factoring-quadratics-1/v/factoring-simple-quadratic-expression
+
+
+* Factoring polynomials by taking common factors <br>
+
+
+https://www.khanacademy.org/math/algebra-home/alg-polynomials/alg-factoring-polynomials-common-factors/v/factoring-linear-binomials
+
+
+
+
+* Division of Polynomials: <br>
+
+https://www.khanacademy.org/math/algebra2/polynomial-functions/division-of-polynomials-alg2/v/division-of-polynomials
+
+
+* The Remainder and Factor Theorems:  <br>
+
+https://www.khanacademy.org/math/algebra2/polynomial-functions/the-remainder-and-factor-theorems-alg2/v/the-remainder-theorem
+
+
+
+
 
 
 
