@@ -150,11 +150,11 @@ https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-fu
 Introduction to Polynomial Functions: <br>
 
 
-https://www.khanacademy.org/math/algebra2/polynomial-functions/introduction-to-polynomial-functions-alg2/v/introduction-to-polynomial-functions
+(https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:multiply-monomial-polynomial/v/polynomials-intro)
 
 
 * Graphing Polynomial Functions: <br>
-https://www.khanacademy.org/math/algebra2/polynomial-functions/graphing-polynomial-functions-alg2/v/graphing-polynomial-functions
+(https://www.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89:poly-graphs)
 
 
 ### SECTION 3.3 Division of Polynomials and the Remainder and Factor Theorems
@@ -163,7 +163,7 @@ https://www.khanacademy.org/math/algebra2/polynomial-functions/graphing-polynomi
 * Factoring quadratics intro <br>
 
 
-https://www.khanacademy.org/math/algebra-home/alg-polynomials/alg-factoring-quadratics-1/v/factoring-simple-quadratic-expression
+(https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring#x2f8bb11595b61c86:factor-quadratics-intro)
 
 
 * Factoring polynomials by taking common factors <br>
