@@ -61,7 +61,7 @@ https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-fu
 
 
 • Composite functions <br>
-(https://www.khanacademy.org/math/algebra/algebra-functions/composite-functions/v/composition-of-functions-1)
+(https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:composite/x9e81a4f98389efdf:composing/v/function-composition)
 
 
 SECTION 2.1 The Rectangular Coordinate System and Graphing Utilities:
