@@ -132,6 +132,14 @@ https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-fu
 #### SECTION 3.3 Division of Polynomials and the Remainder and Factor Theorems
 
 
+SECTION 3.1 Quadratic Functions and ApplicationsIntroduction to Quadratic Functions: https://www.khanacademy.org/math/algebra2/quadratic-functions-and-inequalities/introduction-to-quadratic-functions-alg2/v/quadratic-functions
+Quadratic Functions and Factoring: https://www.khanacademy.org/math/algebra2/quadratic-functions-and-inequalities/quadratic-functions-factoring-alg2/v/quadratic-functions-and-factoring
+SECTION 3.2 Introduction to Polynomial FunctionsIntroduction to Polynomial Functions: https://www.khanacademy.org/math/algebra2/polynomial-functions/introduction-to-polynomial-functions-alg2/v/introduction-to-polynomial-functions
+Graphing Polynomial Functions: https://www.khanacademy.org/math/algebra2/polynomial-functions/graphing-polynomial-functions-alg2/v/graphing-polynomial-functions
+SECTION 3.3 Division of Polynomials and the Remainder and Factor TheoremsDivision of Polynomials: https://www.khanacademy.org/math/algebra2/polynomial-functions/division-of-polynomials-alg2/v/division-of-polynomials
+The Remainder and Factor Theorems: https://www.khanacademy.org/math/algebra2/polynomial-functions/the-remainder-and-factor-theorems-alg2/v/the-remainder-theorem
+
+
 
 ## References
 
