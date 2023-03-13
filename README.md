@@ -68,7 +68,7 @@ SECTION 2.1 The Rectangular Coordinate System and Graphing Utilities:
 
 
 • The coordinate plane <br>
-(https://www.khanacademy.org/math/basic-geo/basic-geo-coordinates)
+(https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:algebra-overview-history/v/descartes-and-cartesian-coordinates)
 
 
 • Plotting points <br>
