@@ -176,12 +176,12 @@ https://www.khanacademy.org/math/algebra-home/alg-polynomials/alg-factoring-poly
 
 * Division of Polynomials: <br>
 
-https://www.khanacademy.org/math/algebra2/polynomial-functions/division-of-polynomials-alg2/v/division-of-polynomials
+(https://www.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89:poly-div)
 
 
 * The Remainder and Factor Theorems:  <br>
 
-https://www.khanacademy.org/math/algebra2/polynomial-functions/the-remainder-and-factor-theorems-alg2/v/the-remainder-theorem
+https://www.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89:poly-div#x2ec2f6f830c9fb89:remainder-theorem
 
 
 
