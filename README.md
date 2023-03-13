@@ -12,31 +12,6 @@
 #### SECTION 1.1 Linear Equations and Rational Equations
 
 
-• Introduction to functions <br>
-(https://www.khanacademy.org/math/algebra/algebra-functions/introduction-to-functions/v/what-is-a-function)
-
-
-• What is a relation? <br>
-https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/cc-8th-function-intro/v/testing-if-a-relationship-is-a-function
-
-
-• Understanding the vertical line test <br>
-(https://www.khanacademy.org/math/algebra/algebra-functions/introduction-to-functions/v/vertical-line-test-review)
-
-
-• Function notation <br>
-(https://www.khanacademy.org/math/algebra/algebra-functions/function-notation/v/function-notation)
-
-
-• Composite functions <br>
-(https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:composite/x9e81a4f98389efdf:composing/v/function-composition)
-
-
-
-• Plotting points <br>
-(https://www.khanacademy.org/math/basic-geo/basic-geo-coordinates/plotting-points/e/plotting_points)
-
-
 
 
 #### SECTION 1.2 Applications and Modeling with Linear Equations
@@ -61,9 +36,27 @@ https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-fu
 ## Chapter 2 Functions and Graphs
 
 
+
+
+
 #### SECTION 2.1 The Rectangular Coordinate System and Graphing Utilities
+
 • The coordinate plane <br>
 (https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:algebra-overview-history/v/descartes-and-cartesian-coordinates)
+
+
+
+• Graphing lines <br> 
+(https://www.khanacademy.org/math/algebra/algebra-functions/graphing-slope-intercept-equations/v/graphing-a-line-in-slope-intercept-form)
+
+
+• Graphing inequalities <br>
+(https://www.khanacademy.org/math/algebra-home/alg-basic-eq-ineq/alg-basic-graphing-inequalities/v/graphing-linear-inequalities)
+
+
+• Plotting points <br>
+(https://www.khanacademy.org/math/basic-geo/basic-geo-coordinates/plotting-points/e/plotting_points)
+
 
 
 #### SECTION 2.2 Circles 
@@ -81,6 +74,26 @@ https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-fu
 
 
 
+• Introduction to functions <br>
+(https://www.khanacademy.org/math/algebra/algebra-functions/introduction-to-functions/v/what-is-a-function)
+
+
+• What is a relation? <br>
+https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/cc-8th-function-intro/v/testing-if-a-relationship-is-a-function
+
+
+• Understanding the vertical line test <br>
+(https://www.khanacademy.org/math/algebra/algebra-functions/introduction-to-functions/v/vertical-line-test-review)
+
+
+• Function notation <br>
+(https://www.khanacademy.org/math/algebra/algebra-functions/function-notation/v/function-notation)
+
+
+• Composite functions <br>
+(https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:composite/x9e81a4f98389efdf:composing/v/function-composition)
+
+
 • Domain and range of a function <br>
 (https://www.khanacademy.org/math/algebra/algebra-functions/domain-and-range/v/domain-and-range-of-a-function)
 
@@ -90,7 +103,7 @@ https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-fu
 • Slope-intercept form <br>
 (https://www.khanacademy.org/math/algebra-home/alg-linear-equations/alg-slope/v/slope-of-a-line)
 
-* (https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/intro-slope-intercept-form/v/slope-intercept-form)
+(https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/intro-slope-intercept-form/v/slope-intercept-form)
 
 • Point-slope form <br>
 (https://www.khanacademy.org/math/algebra-home/alg-linear-equations/alg-slope/v/point-slope-form)
@@ -101,15 +114,6 @@ https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-fu
 
 
 #### SECTION 2.5 Applications of Linear Equations and Modeling
-
-
-• Graphing lines <br> 
-(https://www.khanacademy.org/math/algebra/algebra-functions/graphing-slope-intercept-equations/v/graphing-a-line-in-slope-intercept-form)
-
-
-• Graphing inequalities <br>
-(https://www.khanacademy.org/math/algebra-home/alg-basic-eq-ineq/alg-basic-graphing-inequalities/v/graphing-linear-inequalities)
-
 
 
 
