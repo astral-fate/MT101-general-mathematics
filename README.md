@@ -118,7 +118,7 @@ SECTION 2.4 Linear Equations in Two Variables and Linear Function:
 
 
 • Standard form <br>
-(https://www.khanacademy.org/math/algebra-home/alg-linear-equations/alg-slope-intercept-form/v/graphs-of-linear-equations-2)
+(https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:forms-of-linear-equations#x2f8bb11595b61c86:standard-form)
 
 
 SECTION 2.5 Applications of Linear Equations and Modeling:
